@@ -1,0 +1,51 @@
+*{font-family: 'Roboto', sans-serif;}
+.greyBack{
+    background-color: rgb(243, 241, 241);
+}
+.blue{
+    border:darkblue solid 1px;
+}
+#addNewSection{
+    display: flex;
+    flex-wrap: wrap;
+}
+.employeeBlock{
+    margin: 20px;
+    height: 250px;
+    box-shadow: 10px 10px 5px grey;
+    border-top: rgb(30, 108, 211) solid 100px;
+    border-radius: 5px;
+}
+.topPart{
+    margin-top: -100px;
+    color: white;
+}
+.bottomPart{
+    margin-top: 50px;
+    font-size: 15px;
+}
+.name{
+    font-size: 20px;
+    margin-bottom: 5px;
+    
+}
+.id{
+    background-color: white;
+    margin: 0px 5px 0px 5px;
+    border: rgb(207, 207, 207) solid 1px;
+    padding: 5px 0px 5px 10px;
+}
+.gmail{
+    background-color: white;
+    margin: 0px 5px 0px 5px;
+    border: rgb(207, 207, 207) solid 1px;
+    padding: 5px 0px 5px 10px;
+
+}
+.special{
+    background-color: white;
+    margin: 0px 5px 0px 5px;
+    border: rgb(207, 207, 207) solid 1px;
+    padding: 5px 0px 5px 10px;
+
+}
